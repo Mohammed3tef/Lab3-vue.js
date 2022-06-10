@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Ahmedllkj",
+      "city": "Cairo"
+    },
+    {
+      "id": 2,
+      "name": "Moustafa1",
+      "city": "Alex"
+    },
+    {
+      "id": 3,
+      "name": "Mahmoudm",
+      "city": "Tantal"
+    },
+    {
+      "id": 4,
+      "name": "Diaa",
+      "city": "MitGhamr"
+    },
+    {
+      "id": 5,
+      "name": "Mohsen",
+      "city": "Zefta"
+    },
+    {
+      "id": 6,
+      "name": "Ebrahim",
+      "city": "Banha"
+    },
+    {
+      "id": "8",
+      "name": "mohammed",
+      "city": "alex"
+    }
+  ]
+}
